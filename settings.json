@@ -1,0 +1,9 @@
+{
+  "connectorId": "shared_datelist-5fa47b6f0540995f67-5fe2ca21fa191ec019",
+  "environment": "Default-9d7c0e49-526d-4a2c-b6db-56070cd61bbe",
+  "apiProperties": "apiProperties.json",
+  "apiDefinition": "apiDefinition.swagger.json",
+  "icon": "icon.png",
+  "powerAppsUrl": "https://api.powerapps.com",
+  "powerAppsApiVersion": "2016-11-01"
+}
